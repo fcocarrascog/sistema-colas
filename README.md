@@ -1,9 +1,6 @@
-# Notas:
+# Tickets socket.io
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Sistema de creación de tickets para uso variado, utilizando socket.io
 
-Recuerden que deben de reconstruir los módulos de node con el comando
-
-```
-npm install
-```
+Instalación
+> npm install
